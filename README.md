@@ -17,5 +17,7 @@ Spock vaporizes Rock
 
 video tutorial: https://www.youtube.com/watch?v=x5Q6-wMx-K8
 
-Good luck! :) I hope i didnt make a booboo *Sheldons voice*
+Good luck! :) 
+
+"I hope i didnt make a booboo" *Sheldons voice*
 
