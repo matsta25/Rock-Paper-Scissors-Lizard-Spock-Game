@@ -1,4 +1,7 @@
 # Rock-Paper-Scissors-Lizard-Spock-Game
+
+<b>Check it out :fire:<a href="https://matsta25.github.io/Rock-Paper-Scissors-Lizard-Spock-Game/">HERE</a></b>:fire:.
+
 Rock Paper Scissors Lizard Spock Game (Sheldons game)
 
 Game has been based on my recent repo.
@@ -14,8 +17,6 @@ Lizard eats Paper
 Paper disproves Spock
 Spock vaporizes Rock
 (and as it always has) Rock crushes Scissors
-
-video tutorial: https://www.youtube.com/watch?v=x5Q6-wMx-K8
 
 Good luck! :) 
 
